@@ -11,3 +11,21 @@ header{
     position: absolute;
     margin-top: 45px;
 }
+strong{
+    color: #00A5E4;
+}
+h1{
+    font-size: 55px;
+    margin-top: 10px;
+    margin-bottom: 2px;
+}
+h5{
+    margin-top: 5px;
+    margin-bottom: 1px;
+    color: grey;
+}
+
+h6{
+    margin-top: 1px;
+    color: grey;
+}
