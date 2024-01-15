@@ -2,7 +2,7 @@ header{
     margin: 0px;
     height: 150px;
     background-color: #4EA0FF;
-    background-image: url(pattern.png)
+    background-image: url(/img/pattern.png)
 }
 
 .logo{
@@ -31,4 +31,8 @@ h6{
 }
 .descrizione h6{
     margin-bottom: 2px;
+}
+
+.evidenzia{
+    background-color: #FFFF00;
 }
