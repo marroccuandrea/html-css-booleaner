@@ -15,7 +15,7 @@ strong{
     color: #00A5E4;
 }
 h1{
-    font-size: 55px;
+    font-size: 45px;
     margin-top: 10px;
     margin-bottom: 2px;
 }
@@ -26,6 +26,9 @@ h5{
 }
 
 h6{
-    margin-top: 1px;
+    margin-top: 2px;
     color: grey;
+}
+.descrizione h6{
+    margin-bottom: 2px;
 }
