@@ -73,3 +73,11 @@ h3{
 .bianco{
     color: white;
 }
+
+thead{
+    background-color: #1FA9E5;
+}
+
+.riga1, .riga3{
+    background-color: #B2E4F2;
+}
