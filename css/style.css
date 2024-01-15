@@ -45,14 +45,21 @@ h6{
 
 table{
     border-collapse: collapse;
-    width: 100%;
+    text-align: justify;
+    border: none;
     
+}
+
+thead{
+    background-color: #1FA9E5;
+    text-align: left;
 }
 
 th,td{
     text-align: left;
     width:max-content;
 }
+
 h3{
     margin-top: 2px;
     color: grey;
@@ -72,11 +79,10 @@ h3{
 
 .bianco{
     color: white;
+    
 }
 
-thead{
-    background-color: #1FA9E5;
-}
+
 
 .riga1, .riga3{
     background-color: #B2E4F2;
