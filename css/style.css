@@ -36,3 +36,9 @@ h6{
 .evidenzia{
     background-color: #FFFF00;
 }
+
+.lista{
+    margin-top: 30px;
+    border-left: 1px;
+    padding: 1%;
+}
